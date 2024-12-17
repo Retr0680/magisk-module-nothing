@@ -52,7 +52,7 @@ Tested On:
 #### v3
 * Nothing OS v2.0以降で表示される音量の警告を無効化とモジュールの名称を変更。
 
-## ライセンス
+## License
 
 - [WTFPL](http://www.wtfpl.net/)
 
